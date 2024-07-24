@@ -50,6 +50,7 @@ class MyPage extends StatelessWidget {
               ),
               accountName: Text('Kim360'),
               accountEmail: Text('KKim360'),
+              // new edit
             )
           ],
         ),
